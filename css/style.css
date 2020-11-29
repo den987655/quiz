@@ -1,0 +1,18 @@
+body {
+  background-color: #fff;
+}
+.container {
+  border: 1px solid red;
+}
+.phone {
+  color: #2e353d;
+  font-weight: 700;
+  font-size: 18px;
+}
+.hero-image {
+  border-radius: 10px;
+  width: 450px;
+}
+.hero-novbar {
+  margin-bottom: 96px;
+}
